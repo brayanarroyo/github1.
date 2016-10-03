@@ -52,4 +52,5 @@ Fin Mientras
 		Escribir "Total de reservaciones de la habitación sencilla: " c3 " que equivale al " p3 "% de reservaciones."
 		Escribir "El monto total es: $" mt 
 
+		Escribir "robado del michell"
 FinProceso
